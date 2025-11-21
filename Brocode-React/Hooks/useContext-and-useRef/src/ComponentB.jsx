@@ -1,12 +1,12 @@
 import React from 'react'
 import ComponentC from './ComponentC'
 
-const ComponentB = () => {
+const ComponentB = (props) => {
   return (
     <>
       <div className="box">
         <h2>ComponentB</h2>
-        <ComponentC/>
+        <ComponentC user={props.user}/>
       </div>
     </>
   )
