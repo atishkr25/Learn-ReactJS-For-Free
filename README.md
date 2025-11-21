@@ -24,7 +24,7 @@ This repository contains the code for my React.js learning journey, including ev
 | **Day 03** | Bro Code | <ul><li>Rendering List Items</li><li>Keeping Components Pure</li><li>Click events</li></ul> | Nothing |
 | **Day 04** | Bro Code + React.dev | <ul><li>React Hooks basics</li><li>useState hook</li></ul> | Made Sculpture Gallery, Counter, Dark Mode |
 | **Day 05** | Bro Code | <ul><li>onChange Event Handler</li><li>Updater Function</li><li>Update Objects in State</li></ul> | Color Picker mini project |
-| **Day 06** | Bro Code | <ul><li>Update Arrays/Lists</li><li>Update Array of Objects</li></ul> | Simple Todo + Add Phone List |
+| **Day 06** | Bro Code | <ul><li>Update Arrays/Lists</li><li>Update Array of Objects</li></ul> | Simple Todo + added one more feature |
 | **Day 07** | Bro Code | <ul><li>Todo App Project</li><li>Deploy React Project</li></ul> | Nothing |
 | **Day 08** | Bro Code | <ul><li>useEffect Hook</li><li>Digital Clock mini project</li><li>useContext Hook</li></ul> | Digital Clock, Window Resize Text |
 | **Day 09** | Bro Code | <ul><li>useRef Hook</li><li>Stopwatch mini project</li></ul> | BroCode React Tutorial Completed |
