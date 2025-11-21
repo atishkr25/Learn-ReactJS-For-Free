@@ -1,6 +1,6 @@
 # ⭐ Learning ReactJS
 
-This repository contains the code for my React.js learning journey, including everything I covered during my 16-days ReactJS learning challenge.
+This repository contains the code for my React.js learning journey, including everything I covered during my around 16-17 days ReactJS learning challenge.
 
 ---
 
