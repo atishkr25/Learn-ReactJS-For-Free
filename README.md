@@ -22,7 +22,7 @@ A collection of all my React.js practice code, notes, and projects built during 
 | **Day 01** | Bro Code | <ul><li>React setup</li><li>Folder structure</li><li>Component basics</li><li>Adding CSS in React</li></ul> | Nothing |
 | **Day 02** | Bro Code | <ul><li>Props</li><li>Conditional Rendering</li></ul> | Nothing |
 | **Day 03** | Bro Code | <ul><li>Rendering List Items</li><li>Keeping Components Pure</li><li>Click events</li></ul> | Nothing |
-| **Day 04** | Bro Code + React.dev | <ul><li>React Hooks basics</li><li>useState hook</li></ul> | Made Sculpture Gallery, Counter, Dark Mode |
+| **Day 04** | Bro Code + React.dev | <ul><li>React Hooks basics</li><li>useState hook</li></ul> |, Counter, + experiments..|
 | **Day 05** | Bro Code | <ul><li>onChange Event Handler</li><li>Updater Function</li><li>Update Objects in State</li></ul> | Color Picker mini project |
 | **Day 06** | Bro Code | <ul><li>Update Arrays/Lists</li><li>Update Array of Objects</li></ul> | Simple Todo + added one more feature |
 | **Day 07** | Bro Code | <ul><li>Todo App Project</li><li>Deploy React Project</li></ul> | Nothing |
