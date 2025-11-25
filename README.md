@@ -1,4 +1,4 @@
-# ⭐ Learning ReactJS
+# ⭐ ..Documenting ReactJS
 
 A collection of all my React.js practice code, notes, and projects built during my 16–17 day learning challenge.
 
