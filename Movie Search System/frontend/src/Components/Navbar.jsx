@@ -1,7 +1,10 @@
 
 import { Link } from "react-router-dom";
+import { useTheme } from "../contexts/ThemeContext";
 
 function NavBar() {
+  const { isDarkMode, toggleTheme } = useTheme();
+
   return (
     <nav className="navbar">
 
@@ -15,6 +18,11 @@ function NavBar() {
         </li>
         <li>
           <Link to="/favourites" className="nav-link">Favorites</Link>
+        </li>
+        <li>
+          <button onClick={toggleTheme} className="theme-btn">
+            {isDarkMode ? "☀️" : "🌙"}
+          </button>
         </li>
       </ul>
 
